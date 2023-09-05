@@ -1,6 +1,8 @@
 * React
 * tailwind
 * daisy Ui
+* local storage
+
 ## Live website LINK : https://niftyittask.netlify.app
 
 ## Project title 
