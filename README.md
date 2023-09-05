@@ -1,8 +1,11 @@
-# React + Vite
+* React
+* tailwind
+* daisy Ui
+## Live website LINK : https://niftyittask.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project title 
+Cart product add 
 
-Currently, two official plugins are available:
+## Website features...
+* you can add product and this website has local storage solution. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
